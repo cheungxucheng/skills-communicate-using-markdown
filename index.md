@@ -10,3 +10,7 @@
 ``` c++
 string out = "Hello World!";
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
